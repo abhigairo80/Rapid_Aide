@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Rapid Aide</string>
+<!--    <string name="default_web_client_id">cliemt</string>-->
+    <string name="logout">Log Out</string>
+
+    <string name="HelpLineFragment">HelpLine</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="password">PASSWORD</string>
+
+    <string name="email_mobile">EMAIL</string>
+
+    <string name="sign_up">SIGN UP</string>
+    <string name="name">NAME</string>
+    <string name="agree_to_out_terms_amp_conditions"><![CDATA[Agree to Out Terms & Conditions]]></string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="sign_in">SIGN IN</string>
+
+
+
+
+    <string name="fire_string">Fire</string>
+    <string name="police_string">Police</string>
+    <string name="medical_string">Medical</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="image">Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+
+</resources>

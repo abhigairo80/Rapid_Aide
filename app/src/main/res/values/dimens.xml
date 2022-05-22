@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <dimen name="emergency_numbers_cards_lateral_margins">10dp</dimen>
+    <dimen name="emergency_numbers_cards_vertical_margins">5dp</dimen>
+    <dimen name="emergency_numbers_cards_content_padding">10dp</dimen>
+    <dimen name="emergency_tab_padding_top">10dp</dimen>
+    <dimen name="emergency_tab_padding_bottom">50dp</dimen>
+    <dimen name="height_of_nav_main">120dp</dimen>
+    <dimen name="nav_image_size">80dp</dimen>
+    <dimen name="nav_content_margin_StartEnd">16dp</dimen>
+    <dimen name="nav_content_margin_top">15dp</dimen>
+    <dimen name="nav_content_margin_bottom">10dp</dimen>
+    <dimen name="nav_user_name_text_size">30sp</dimen>
+    <dimen name="nav_image_circular_border_width">1dp</dimen>
+
+</resources>

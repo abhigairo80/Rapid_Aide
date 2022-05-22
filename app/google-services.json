@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39353187871",
+    "project_id": "rapid-aide",
+    "storage_bucket": "rapid-aide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39353187871:android:0fe49821a398add2235f2a",
+        "android_client_info": {
+          "package_name": "com.complete.rapidaide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39353187871-ql7ts1h8quar1mgagn2juh91p5jbnpre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7DO8P8-hcy1f_Uo9wgMWyL9oOAlgr7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39353187871-ql7ts1h8quar1mgagn2juh91p5jbnpre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
